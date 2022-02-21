@@ -1,0 +1,16 @@
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\bin\Debug\net5.0\DesignPatternsIntro.exe
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\bin\Debug\net5.0\DesignPatternsIntro.deps.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\bin\Debug\net5.0\DesignPatternsIntro.runtimeconfig.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\bin\Debug\net5.0\DesignPatternsIntro.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\bin\Debug\net5.0\DesignPatternsIntro.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\bin\Debug\net5.0\ref\DesignPatternsIntro.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\bin\Debug\net5.0\DesignPatternsIntro.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\obj\Debug\net5.0\DesignPatternsIntro.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\obj\Debug\net5.0\DesignPatternsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\obj\Debug\net5.0\DesignPatternsIntro.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\obj\Debug\net5.0\DesignPatternsIntro.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\obj\Debug\net5.0\DesignPatternsIntro.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\obj\Debug\net5.0\DesignPatternsIntro.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\obj\Debug\net5.0\ref\DesignPatternsIntro.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\obj\Debug\net5.0\DesignPatternsIntro.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatternsIntro\obj\Debug\net5.0\DesignPatternsIntro.genruntimeconfig.cache

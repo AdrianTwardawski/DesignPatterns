@@ -1,0 +1,16 @@
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\bin\Debug\net5.0\SingleResponsibility.exe
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\bin\Debug\net5.0\SingleResponsibility.deps.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\bin\Debug\net5.0\SingleResponsibility.runtimeconfig.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\bin\Debug\net5.0\SingleResponsibility.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\bin\Debug\net5.0\SingleResponsibility.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\bin\Debug\net5.0\ref\SingleResponsibility.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\bin\Debug\net5.0\SingleResponsibility.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\obj\Debug\net5.0\SingleResponsibility.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\obj\Debug\net5.0\SingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\obj\Debug\net5.0\SingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\obj\Debug\net5.0\SingleResponsibility.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\obj\Debug\net5.0\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\obj\Debug\net5.0\SingleResponsibility.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\obj\Debug\net5.0\ref\SingleResponsibility.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\obj\Debug\net5.0\SingleResponsibility.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\SingleResponsibility\obj\Debug\net5.0\SingleResponsibility.genruntimeconfig.cache
