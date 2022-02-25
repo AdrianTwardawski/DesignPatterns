@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SingleResponsibility
+namespace OpenClose.Class
 {
     class InvoiceLogger
     {
@@ -13,7 +13,7 @@ namespace SingleResponsibility
         {
             _invoice = invoice;
         }
-        
+
         public void Display()
         {
             Console.WriteLine($"Vendor: {_invoice.Vendor}");
