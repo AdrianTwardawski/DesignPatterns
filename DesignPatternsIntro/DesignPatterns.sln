@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibility", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClose", "..\OpenClose\OpenClose.csproj", "{BAE2F488-E013-4B05-8C10-B1E9AB8C817E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitution", "..\LiskovSubstitution\LiskovSubstitution.csproj", "{4446FABB-B507-4529-A69D-25B3151BA696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstitution", "..\LiskovSubstitution\LiskovSubstitution.csproj", "{4446FABB-B507-4529-A69D-25B3151BA696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "..\InterfaceSegregation\InterfaceSegregation.csproj", "{ED751668-6198-4114-BE7D-FEDE879C73DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{4446FABB-B507-4529-A69D-25B3151BA696}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4446FABB-B507-4529-A69D-25B3151BA696}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4446FABB-B507-4529-A69D-25B3151BA696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED751668-6198-4114-BE7D-FEDE879C73DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED751668-6198-4114-BE7D-FEDE879C73DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED751668-6198-4114-BE7D-FEDE879C73DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED751668-6198-4114-BE7D-FEDE879C73DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{A2ED004A-17E3-443E-8046-84F3874F1D91} = {E90034F0-1639-4579-89B2-8B3F796E5F7C}
 		{BAE2F488-E013-4B05-8C10-B1E9AB8C817E} = {E90034F0-1639-4579-89B2-8B3F796E5F7C}
 		{4446FABB-B507-4529-A69D-25B3151BA696} = {E90034F0-1639-4579-89B2-8B3F796E5F7C}
+		{ED751668-6198-4114-BE7D-FEDE879C73DF} = {E90034F0-1639-4579-89B2-8B3F796E5F7C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0FA5FD9A-BA89-4CA9-BC05-AEE6F5FF8B32}
