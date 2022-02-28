@@ -19,6 +19,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregation", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "..\DependencyInversion\DependencyInversion.csproj", "{EBD6AA2C-95D6-4487-BCF1-2CC183EC76DD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{386B5598-9F2C-4E0E-944A-DF91A2802D6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "..\Builder\Builder.csproj", "{DCAE973B-8E60-4C57-ADFA-5B608B26746D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +53,10 @@ Global
 		{EBD6AA2C-95D6-4487-BCF1-2CC183EC76DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBD6AA2C-95D6-4487-BCF1-2CC183EC76DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBD6AA2C-95D6-4487-BCF1-2CC183EC76DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCAE973B-8E60-4C57-ADFA-5B608B26746D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAE973B-8E60-4C57-ADFA-5B608B26746D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAE973B-8E60-4C57-ADFA-5B608B26746D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAE973B-8E60-4C57-ADFA-5B608B26746D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +68,7 @@ Global
 		{4446FABB-B507-4529-A69D-25B3151BA696} = {E90034F0-1639-4579-89B2-8B3F796E5F7C}
 		{ED751668-6198-4114-BE7D-FEDE879C73DF} = {E90034F0-1639-4579-89B2-8B3F796E5F7C}
 		{EBD6AA2C-95D6-4487-BCF1-2CC183EC76DD} = {E90034F0-1639-4579-89B2-8B3F796E5F7C}
+		{DCAE973B-8E60-4C57-ADFA-5B608B26746D} = {386B5598-9F2C-4E0E-944A-DF91A2802D6A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0FA5FD9A-BA89-4CA9-BC05-AEE6F5FF8B32}
