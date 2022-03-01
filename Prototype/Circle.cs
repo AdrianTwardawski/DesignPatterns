@@ -11,7 +11,14 @@ namespace Prototype
         public int Radius { get; set; }
         public override Shape Clone()
         {
-            return (Circle)this.MemberwiseClone();
+            Circle cloneBase = (Circle)this.MemberwiseClone(); //płytki klon naszego obiektu
+            cloneBase.Border = new Border()
+            {
+                Size = Border.Size,
+                Color = Border.Color
+            }; //obiekt klonowany jest kopią głęboką ponieważ utworzyliśmy nowy obiekt dla typów z nim powiązanych
+
+            return cloneBase;
         }
 
         public override void Render()

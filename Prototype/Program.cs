@@ -14,7 +14,7 @@ namespace Prototype
                 Border = new Border()
                 {
                     Color = "Blue",
-                    Size = "Big"
+                    Size = "2px"
                 }
             };
 
