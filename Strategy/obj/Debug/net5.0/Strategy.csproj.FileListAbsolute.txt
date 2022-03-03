@@ -1,0 +1,16 @@
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.exe
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.deps.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\bin\Debug\net5.0\ref\Strategy.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\bin\Debug\net5.0\Strategy.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\obj\Debug\net5.0\ref\Strategy.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Strategy\obj\Debug\net5.0\Strategy.genruntimeconfig.cache

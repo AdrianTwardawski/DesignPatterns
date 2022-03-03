@@ -8,7 +8,7 @@ namespace Builder
 {
     public class InvoiceBuilder
     {
-        private Invoice _invoice = new Invoice();
+        private readonly Invoice _invoice = new Invoice();
 
         public Invoice Build()
         {

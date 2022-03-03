@@ -27,9 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory", "..\Factory\Facto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "..\AbstractFactory\AbstractFactory.csproj", "{67A9878A-F0A9-4A53-A352-CED0037A5BCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "..\Prototype\Prototype.csproj", "{FF726928-89AE-40E0-9125-616E42FE7DAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "..\Prototype\Prototype.csproj", "{FF726928-89AE-40E0-9125-616E42FE7DAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "..\Singleton\Singleton.csproj", "{97566FD7-3559-423A-8BAF-6F33608EDF19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "..\Singleton\Singleton.csproj", "{97566FD7-3559-423A-8BAF-6F33608EDF19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{92AFFF47-1DF7-43F8-9716-9EE098EA9731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "..\Strategy\Strategy.csproj", "{932C2EB9-C62D-4C5F-A115-2FF0682D1B8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,10 @@ Global
 		{97566FD7-3559-423A-8BAF-6F33608EDF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97566FD7-3559-423A-8BAF-6F33608EDF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97566FD7-3559-423A-8BAF-6F33608EDF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932C2EB9-C62D-4C5F-A115-2FF0682D1B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932C2EB9-C62D-4C5F-A115-2FF0682D1B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932C2EB9-C62D-4C5F-A115-2FF0682D1B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932C2EB9-C62D-4C5F-A115-2FF0682D1B8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -97,6 +105,7 @@ Global
 		{67A9878A-F0A9-4A53-A352-CED0037A5BCE} = {386B5598-9F2C-4E0E-944A-DF91A2802D6A}
 		{FF726928-89AE-40E0-9125-616E42FE7DAA} = {386B5598-9F2C-4E0E-944A-DF91A2802D6A}
 		{97566FD7-3559-423A-8BAF-6F33608EDF19} = {386B5598-9F2C-4E0E-944A-DF91A2802D6A}
+		{932C2EB9-C62D-4C5F-A115-2FF0682D1B8E} = {92AFFF47-1DF7-43F8-9716-9EE098EA9731}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0FA5FD9A-BA89-4CA9-BC05-AEE6F5FF8B32}
