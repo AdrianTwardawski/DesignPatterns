@@ -1,0 +1,16 @@
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\bin\Debug\net5.0\TemplateMethod.exe
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\bin\Debug\net5.0\TemplateMethod.deps.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\bin\Debug\net5.0\TemplateMethod.runtimeconfig.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\bin\Debug\net5.0\TemplateMethod.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\bin\Debug\net5.0\TemplateMethod.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\bin\Debug\net5.0\ref\TemplateMethod.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\bin\Debug\net5.0\TemplateMethod.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\obj\Debug\net5.0\ref\TemplateMethod.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.genruntimeconfig.cache

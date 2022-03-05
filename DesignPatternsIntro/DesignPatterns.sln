@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "..\Mediator\Med
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "..\ChainOfResponsibility\ChainOfResponsibility.csproj", "{3E16ACEB-299E-4B4D-9872-FC65546E264A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "..\TemplateMethod\TemplateMethod.csproj", "{20E5CBFB-2FC9-4882-9906-E8A13B627D8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -107,6 +109,10 @@ Global
 		{3E16ACEB-299E-4B4D-9872-FC65546E264A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E16ACEB-299E-4B4D-9872-FC65546E264A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E16ACEB-299E-4B4D-9872-FC65546E264A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E5CBFB-2FC9-4882-9906-E8A13B627D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E5CBFB-2FC9-4882-9906-E8A13B627D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E5CBFB-2FC9-4882-9906-E8A13B627D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E5CBFB-2FC9-4882-9906-E8A13B627D8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -127,6 +133,7 @@ Global
 		{07CD3DCE-EE08-4616-8CD6-837E2E044379} = {92AFFF47-1DF7-43F8-9716-9EE098EA9731}
 		{A21A207E-F14D-4AFB-8B36-ED76D2723F31} = {92AFFF47-1DF7-43F8-9716-9EE098EA9731}
 		{3E16ACEB-299E-4B4D-9872-FC65546E264A} = {92AFFF47-1DF7-43F8-9716-9EE098EA9731}
+		{20E5CBFB-2FC9-4882-9906-E8A13B627D8C} = {92AFFF47-1DF7-43F8-9716-9EE098EA9731}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0FA5FD9A-BA89-4CA9-BC05-AEE6F5FF8B32}
