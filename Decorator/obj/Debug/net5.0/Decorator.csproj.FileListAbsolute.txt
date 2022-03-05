@@ -1,0 +1,16 @@
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.exe
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.deps.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\bin\Debug\net5.0\ref\Decorator.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\obj\Debug\net5.0\ref\Decorator.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.genruntimeconfig.cache
