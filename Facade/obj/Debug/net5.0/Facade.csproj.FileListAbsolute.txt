@@ -1,0 +1,15 @@
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\bin\Debug\net5.0\Facade.exe
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\bin\Debug\net5.0\Facade.deps.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\bin\Debug\net5.0\Facade.runtimeconfig.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\bin\Debug\net5.0\Facade.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\bin\Debug\net5.0\Facade.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\bin\Debug\net5.0\ref\Facade.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\bin\Debug\net5.0\Facade.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\obj\Debug\net5.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\obj\Debug\net5.0\Facade.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\obj\Debug\net5.0\Facade.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\obj\Debug\net5.0\Facade.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\obj\Debug\net5.0\Facade.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\obj\Debug\net5.0\ref\Facade.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\obj\Debug\net5.0\Facade.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Facade\obj\Debug\net5.0\Facade.genruntimeconfig.cache
