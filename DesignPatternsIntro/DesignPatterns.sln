@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "..\Templa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "..\State\State.csproj", "{959503B7-3BB5-4D13-B52C-0F83A76FA04A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{E6B78098-2E47-4F51-9C48-51ACE4AA3164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "..\Adapter\Adapter.csproj", "{0E51B0E5-CC08-4DEE-836E-12299FFA4CB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -119,6 +123,10 @@ Global
 		{959503B7-3BB5-4D13-B52C-0F83A76FA04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{959503B7-3BB5-4D13-B52C-0F83A76FA04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{959503B7-3BB5-4D13-B52C-0F83A76FA04A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E51B0E5-CC08-4DEE-836E-12299FFA4CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E51B0E5-CC08-4DEE-836E-12299FFA4CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E51B0E5-CC08-4DEE-836E-12299FFA4CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E51B0E5-CC08-4DEE-836E-12299FFA4CB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -141,6 +149,7 @@ Global
 		{3E16ACEB-299E-4B4D-9872-FC65546E264A} = {92AFFF47-1DF7-43F8-9716-9EE098EA9731}
 		{20E5CBFB-2FC9-4882-9906-E8A13B627D8C} = {92AFFF47-1DF7-43F8-9716-9EE098EA9731}
 		{959503B7-3BB5-4D13-B52C-0F83A76FA04A} = {92AFFF47-1DF7-43F8-9716-9EE098EA9731}
+		{0E51B0E5-CC08-4DEE-836E-12299FFA4CB1} = {E6B78098-2E47-4F51-9C48-51ACE4AA3164}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0FA5FD9A-BA89-4CA9-BC05-AEE6F5FF8B32}
