@@ -1,0 +1,16 @@
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\bin\Debug\net5.0\GenericDelegates.exe
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\bin\Debug\net5.0\GenericDelegates.deps.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\bin\Debug\net5.0\GenericDelegates.runtimeconfig.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\bin\Debug\net5.0\GenericDelegates.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\bin\Debug\net5.0\GenericDelegates.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\bin\Debug\net5.0\ref\GenericDelegates.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\bin\Debug\net5.0\GenericDelegates.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\obj\Debug\net5.0\GenericDelegates.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\obj\Debug\net5.0\GenericDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\obj\Debug\net5.0\GenericDelegates.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\obj\Debug\net5.0\GenericDelegates.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\obj\Debug\net5.0\GenericDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\obj\Debug\net5.0\GenericDelegates.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\obj\Debug\net5.0\ref\GenericDelegates.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\obj\Debug\net5.0\GenericDelegates.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\GenericDelegates\obj\Debug\net5.0\GenericDelegates.genruntimeconfig.cache

@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 
 namespace Singleton
 {
@@ -6,13 +6,24 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //var cfg = Configuration.GetInstance();
+            //var cfg2 = Configuration.GetInstance();
+            //if (ReferenceEquals(cfg, cfg2))
+            //{
+            //    Console.WriteLine("Configuration is a singleton");
+            //}
 
-            var cfg = Configuration.GetInstance();
-            var cfg2 = Configuration.GetInstance();
-            if(ReferenceEquals(cfg, cfg2))
+
+            var cfg3 = Singleton.UtworzObjekt();
+            var cfg4 = Singleton.UtworzObjekt();
+
+            if(cfg3 == cfg4)
             {
-                Console.WriteLine("Configuration is a singleton");
+                Console.WriteLine("Identyczne");
+            }
+            else
+            {
+                Console.WriteLine("Różnią się");
             }
         }
     }

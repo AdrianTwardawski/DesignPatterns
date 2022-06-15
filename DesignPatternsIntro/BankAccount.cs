@@ -47,5 +47,13 @@ namespace DesignPatternsIntro
         {        
             Console.WriteLine("Account balance: " + balance);
         }
+
+
+        public int Number { get; set; }
+
+        private int number;
     }
 }
+
+
+

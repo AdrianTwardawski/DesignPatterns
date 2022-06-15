@@ -13,3 +13,4 @@ C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Singleton\obj\Debug\net5.0\Singlet
 C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Singleton\obj\Debug\net5.0\ref\Singleton.dll
 C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Singleton\obj\Debug\net5.0\Singleton.pdb
 C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Singleton\obj\Debug\net5.0\Singleton.genruntimeconfig.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\Singleton\obj\Debug\net5.0\Singleton.csproj.AssemblyReference.cache

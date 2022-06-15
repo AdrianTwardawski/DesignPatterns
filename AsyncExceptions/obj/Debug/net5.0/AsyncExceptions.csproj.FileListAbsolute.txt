@@ -1,0 +1,16 @@
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\bin\Debug\net5.0\AsyncExceptions.exe
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\bin\Debug\net5.0\AsyncExceptions.deps.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\bin\Debug\net5.0\AsyncExceptions.runtimeconfig.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\bin\Debug\net5.0\AsyncExceptions.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\bin\Debug\net5.0\AsyncExceptions.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\bin\Debug\net5.0\ref\AsyncExceptions.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\bin\Debug\net5.0\AsyncExceptions.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\obj\Debug\net5.0\AsyncExceptions.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\obj\Debug\net5.0\AsyncExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\obj\Debug\net5.0\AsyncExceptions.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\obj\Debug\net5.0\AsyncExceptions.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\obj\Debug\net5.0\AsyncExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\obj\Debug\net5.0\AsyncExceptions.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\obj\Debug\net5.0\ref\AsyncExceptions.dll
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\obj\Debug\net5.0\AsyncExceptions.pdb
+C:\Users\Adrian\Desktop\dev\c#\DesignPatterns\AsyncExceptions\obj\Debug\net5.0\AsyncExceptions.genruntimeconfig.cache

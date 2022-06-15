@@ -19,7 +19,12 @@ namespace Singleton
 
         public static Configuration GetInstance()
         {
-            lock(obj)
+            //istnieje szansa że dwa wątki znajdą sie w tym samym położeniu, przez co te dwa wątki
+            //utworzą dwa nowe obiekty typu Configuration
+            //lock sprawi, że jeżeli dwa wątki w tym samym czasie będą próbowąły się do warunku if,
+            //to pierwszy z nich zablokuje dostęp temu drugiemu, przez co ten drugi wątek po odczekaniu
+            //jakiegoś czasu nie będzie już widział wartośći instance tylko wartości równej null
+            lock (obj) 
             {
                 if(_instance == null)
                 {
